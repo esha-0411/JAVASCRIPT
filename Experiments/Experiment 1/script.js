@@ -5,7 +5,7 @@ console.log("External JavaScript file (script.js) loaded successfully");
 
 // Function using External JavaScript
 function showWelcomeMessage() {
-    var studentName = "Jash Chauhan";
+    var studentName = "Esha Hadap";
     var currentDate = new Date();
     var hours = currentDate.getHours();
     var greeting;
